@@ -1,0 +1,14 @@
+{
+    "name": "com.spellboundar.scrolling-textures",
+    "rootNamespace": "SpellBoundAR.ScrollingTextures",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

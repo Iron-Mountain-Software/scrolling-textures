@@ -1,0 +1,21 @@
+{
+  "name": "com.spellboundar.scrolling-textures",
+  "version": "1.0.0",
+  "displayName": "Scrolling Textures",
+  "description": "Scripts for scrolling textures in various cases.",
+  "unity": "2019.1",
+  "keywords": [
+    "tools"
+  ],
+  "author": "Chris Monteferrante <chris@spellboundar.com>",
+  "type": "tool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpellBoundAR-Packages/scrolling-textures.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpellBoundAR-Packages/scrolling-textures/issues"
+  },
+  "homepage": "https://github.com/SpellBoundAR-Packages/scrolling-textures#readme"
+}
