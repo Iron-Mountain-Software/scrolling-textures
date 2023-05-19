@@ -1,6 +1,7 @@
 # Scrolling Textures
 
 _Endlessly scroll your textures on 3D and UI objects!_
+
 EASY SET UP! NO CODING REQUIRED!
 
 ---
@@ -14,7 +15,7 @@ EASY SET UP! NO CODING REQUIRED!
 
 ---
 
-### Key components (scripts to put on GameObjects):
+### Key components:
 
 1. Scrolling Material
 	* Place on any gameobject with a renderer.
