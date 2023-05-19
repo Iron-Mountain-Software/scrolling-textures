@@ -1,13 +1,11 @@
 ﻿using UnityEngine;
 
-namespace SpellBoundAR.ScrollingTextures
+namespace IronMountain.ScrollingTextures
 {
     [DisallowMultipleComponent]
     [RequireComponent(typeof(Renderer))]
-    public class ScrollingTexture : MonoBehaviour
+    public class ScrollingMaterial : MonoBehaviour
     {
-        private enum TimeMethod { Unscaled, Scaled }
-        
         [SerializeField] private Vector2 tiling = Vector2.one;
         [SerializeField] private Vector2 speed;
         [SerializeField] private string propertyName = "_MainTex_ST";

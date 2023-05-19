@@ -1,14 +1,13 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace SpellBoundAR.ScrollingTextures
+namespace IronMountain.ScrollingTextures
 {
     [DisallowMultipleComponent]
     [RequireComponent(typeof(RawImage))]
     public class ScrollingRawImage : MonoBehaviour
     {
         private enum FillMethod { None, Stretch, Width, Height }
-        private enum TimeMethod { Unscaled, Scaled }
         
         [SerializeField] private Vector2 speed;
         [SerializeField] private FillMethod fillMethod;

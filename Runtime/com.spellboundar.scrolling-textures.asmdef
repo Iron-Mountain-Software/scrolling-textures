@@ -1,6 +1,6 @@
 {
-    "name": "com.spellboundar.scrolling-textures",
-    "rootNamespace": "SpellBoundAR.ScrollingTextures",
+    "name": "com.irom-mountain.scrolling-textures",
+    "rootNamespace": "IronMountain.ScrollingTextures",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

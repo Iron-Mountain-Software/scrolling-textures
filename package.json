@@ -1,5 +1,5 @@
 {
-  "name": "com.spellboundar.scrolling-textures",
+  "name": "com.iron-mountain.scrolling-textures",
   "version": "1.0.0",
   "displayName": "Scrolling Textures",
   "description": "Scripts for scrolling textures in various cases.",
@@ -7,15 +7,15 @@
   "keywords": [
     "tools"
   ],
-  "author": "Chris Monteferrante <chris@spellboundar.com>",
+  "author": "Chris Monteferrante <ludachrismonte@gmail.com>",
   "type": "tool",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SpellBoundAR-Packages/scrolling-textures.git"
+    "url": "git+https://github.com/Iron-Mountain-Software/scrolling-textures.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SpellBoundAR-Packages/scrolling-textures/issues"
+    "url": "https://github.com/Iron-Mountain-Software/scrolling-textures/issues"
   },
-  "homepage": "https://github.com/SpellBoundAR-Packages/scrolling-textures#readme"
+  "homepage": "https://github.com/Iron-Mountain-Software/scrolling-textures#readme"
 }
