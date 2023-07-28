@@ -1,6 +1,6 @@
 {
   "name": "com.iron-mountain.scrolling-textures",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Scrolling Textures",
   "description": "Scripts for scrolling textures in various cases.",
   "unity": "2019.1",
